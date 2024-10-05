@@ -1,5 +1,5 @@
 # VRProject
-Version 1.0.0
+Version Pre-Alpha 1.0.0
 
 
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
